@@ -1,0 +1,6 @@
+*.jpg
+*.png
+*.bmp
+/x64
+/Release
+/.vs

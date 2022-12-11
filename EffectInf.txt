@@ -1,0 +1,15 @@
+Effect002
+Effect002.png
+5 5 25 0.03 00000000 255
+Explosion7-0
+explosion7-0.png
+4 4 14 0.02 00000000 255
+AttackedEffect001
+AttackedEffect001.png
+5 1 5 0.03 00000000 255
+CreateShieldEffect
+CreateShield.png
+5 4 19 0.15 00000000 100
+ShieldEffect
+Shield.png
+5 3 15 0.1 00000000 100
